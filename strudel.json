@@ -1,5 +1,7 @@
 {
-"_base": "https://raw.githubusercontent.com/etcnoise/freesounds/main/",
-"drnebm": ["drnebm/drnebm.wav"],
-"ambient": ["ambient/ambient0.wav", "ambient/ambient1.wav"]
+  "_base": "https://raw.githubusercontent.com/etcnoise/freesounds/main/",
+  "drnebm": ["drnebm/drnebm.wav"],
+  "ambient": ["ambient/ambient0.wav", "ambient/ambient1.wav"],
+  "pianoimp_cm": ["pianoimp_cm/pianoimp_cm0.wav"],
+  "pianoimp_fm": ["pianoimp_fm/pianoimp_fm0.wav"],
 }
