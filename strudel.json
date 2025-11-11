@@ -1,4 +1,5 @@
 {
 "_base": "https://raw.githubusercontent.com/etcnoise/freesounds/main/",
-"drnebm": ["drnebm/drnebm.wav"]
+"drnebm": ["drnebm/drnebm.wav"],
+"ambient": ["ambient/ambient0.wav", "ambient/ambient1.wav"]
 }
